@@ -1,5 +1,5 @@
 # TableSFM
 
-Marena Abboud
-Francisco Figueroa
-Saul Sanchez
+* Marena Abboud
+* Francisco Figueroa
+* Saul Sanchez
